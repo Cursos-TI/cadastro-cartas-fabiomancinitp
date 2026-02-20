@@ -1,5 +1,3 @@
-//criei os codigos necessarios para o desafio
-
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
